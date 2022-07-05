@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 40px 40px;
+    margin:0;
 }
 body p{
     font-size: small;
@@ -25,7 +25,7 @@ body p{
 }
 
 .half-width {
-    width: 60%;
+    width: 50%;
     padding-left: 5%;
 }
 
@@ -57,3 +57,27 @@ body p{
 .social-info{
     text-align: center;
 }
+.foot{
+    height: 150px;
+    text-align: center;
+    background-color:rgb(4, 10, 31);
+    margin:0;
+}
+.foot p{
+    color: white;
+}
+#footid{
+    color: gray;
+}
+.socialdiv{
+    width: 100%;
+    padding-left:5%;
+}
+.lowsocial{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+
