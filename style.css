@@ -25,7 +25,7 @@ body p{
 }
 
 .half-width {
-    width: 50%;
+    width: 60%;
     padding-left: 5%;
 }
 
@@ -42,9 +42,18 @@ body p{
 .about-me p{
     text-align: left;
 }
-.second-button{
 
-}
 .bottom-head{
+    text-align: center;
+}
+.low{
+    width: 60%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray;
+}
+.social-info{
     text-align: center;
 }
