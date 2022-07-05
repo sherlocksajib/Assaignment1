@@ -1,0 +1,50 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 40px 40px;
+}
+body p{
+    font-size: small;
+}
+.header{
+    font-size:40px;
+}
+.org{
+    color: orange;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgba(240, 68, 68, 0.822));
+    padding: 10px 30px;
+    color: azure;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.flex-contain {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+.middle-banner{
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+}
+.about-me{
+    padding-top: 80px;
+}
+.about-me p{
+    text-align: left;
+}
+.second-button{
+
+}
+.bottom-head{
+    text-align: center;
+}
